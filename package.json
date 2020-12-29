@@ -1,7 +1,7 @@
 {
   "name": "components",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://fujunguo.github.io/react-todo",
   "private": true,
   "dependencies": {
     "classnames": "2.2.6",
